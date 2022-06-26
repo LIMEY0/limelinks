@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+</head>
+
+<body style="background-color: rgb(255, 255, 255);">
+
+    <div>
+        <h1 style="color: rgb(255, 255, 255);">limescales links</h1>
+        <hr>
+        <p style="color: white;"> thease are my links for social media </p>
+        <a href="https://www.tiktok.com/@limescales">
+            <h1 style="font: 200;">my tiktok
+        </a>
+        <a href="https://www.youtube.com/channel/UCGDE6zcSKLACxmeUhUHuLWQ">
+            <h2 style="font: 200;">my youtube</a>
+
+        <a href="https://www.youtube.com/channel/UCGDE6zcSKLACxmeUhUHuLWQ">
+            <h3 style="font: 200;">dont reenact</a>
+
+        <style>
+            body {
+                background-image: url(images/images.jfif);
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: 100% 100%;
+            }
+        </style>
+</body>
+
+</html>
